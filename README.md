@@ -1,18 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shan Chen</h1>
 <h3 align="center">🔍 Software QA & Test Engineer | 💻 Aspiring Developer</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shanchencs/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
-  </a>
-  <a href="shanchenjoy@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
-  </a>
-</p>
 
----
-
-### 🧑‍💼 About Me
+### 👸 About Me
 
 - 🧪 I’m currently working as a **Software QA and Test Engineer**
 - 🌱 Exploring and learning **Software Development**, **Automation**, and **DevOps**
@@ -58,10 +48,7 @@ I’m currently exploring development and working on:
 
 - 🌐 [**Portfolio Website**](https://github.com/yourusername/portfolio-site)  
   Built with HTML, CSS, and JavaScript
-
-- ⚛️ [**Frontend Practice Projects**](https://github.com/yourusername/frontend-practice)  
-  Small apps using React and JavaScript
-
+  
 ---
 
 ### 📚 Currently Learning
@@ -87,8 +74,10 @@ I’m currently exploring development and working on:
 Feel free to reach out for collaborations, pair programming, or mentoring:
 
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 📬 [Email](mailto:your@email.com)  
-- 🌐 [Portfolio](https://yourwebsite.com) *(if available)*
+- 📬 [Email](shanchenjoy@gmail.com)  
+- 🌐 [Portfolio]*Personal Website*  
+I'm currently building my personal website — *Coming Soon!*
+Stay tuned for updates at: [https://yourwebsite.com](https://yourwebsite.com)*
 
 ---
 
