@@ -37,7 +37,7 @@
 
 - 🧰 [**Selenium UI Automation Tests**](https://github.com/ShanTiramisu/AutomationProjects.git) – Functional test automation using Selenium & Python
 - 🎮 [**MiniGameHub**](https://github.com/ShanTiramisu/MiniGameHub.git) - A simple web application using React and FastAPI
-- 🔌 [**API Testing with Python and PyTest**](https://github.com/ShanTiramisu/api-testing) – Automated REST API tests with Python and PyTest（On-going）
+- 🔌 [**API Testing with Python and PyTest**](https://github.com/ShanTiramisu/APITestAutomation.git) – Automated REST API tests with Python and PyTest（On-going）
 - 🌐 [**Personal Websit**](https://github.com/ShanTiramisu/PersonalWebsite.git) – UI component builds as I learn React (On-going)
 - 🐾 [**Pet Tracker App (WIP)**](https://github.com/ShanTiramisu/pet-tracker) – Because every cat and dog deserves a dashboard (On-going)
 
