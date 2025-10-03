@@ -1,52 +1,101 @@
-<!-- Header with emoji or banner -->
-<h1 align="center">Hi 👋, I'm Shan</h1>
-<h3 align="center">A passionate Software QA and Test Engineer from Ottawa</h3>
+<h1 align="center">Hi 👋, I'm Shan Chen</h1>
+<h3 align="center">🔍 Software QA & Test Engineer | 💻 Aspiring Developer</h3>
 
-<!-- Socials / Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/shanchencs/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:shanchenjoy@email.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://yourwebsite.com"><img alt="Website" src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=flat&logo=internet-explorer&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/shanchencs/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
+  </a>
+  <a href="shanchenjoy@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🧑‍💼 About Me
 
-- 🔭 I’m currently working on **My Personal Website**
-- 🌱 I’m currently learning **[Tech Stack or Tool]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me: **[Email or Website]**
+- 🧪 I’m currently working as a **Software QA and Test Engineer**
+- 🌱 Exploring and learning **Software Development**, **Automation**, and **DevOps**
+- 🛠️ Passionate about building reliable, scalable, and testable systems
+- 🤝 Looking to collaborate on **open-source projects** and **testing tools**
+- 📫 Reach me at: **shanchenjoy@gmail.com**
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,github,git,docker,postgres" />
+  <img src="https://skillicons.dev/icons?i=selenium,python,C#,java,js,html,css,git,github,vsCode,postman,jira" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark-blue" />
 </p>
 
 ---
 
-### 📂 Featured Projects
+### 🧪 QA Projects
 
-Here are some cool things I’ve built:
+Here are some cool QA/testing-related projects I’ve worked on:
 
-- 🚀 [**Project One**](https://github.com/yourusername/project-one) — Description
-- 💡 [**Project Two**](https://github.com/yourusername/project-two) — Description
+- 🧰 [**Automated Web Testing with Selenium**](https://github.com/yourusername/selenium-web-tests)  
+  Automated UI tests using Selenium WebDriver and Python
+
+- 🛠️ [**API Testing with Postman and Newman**](https://github.com/yourusername/api-tests)  
+  Automated API tests and integration with CI/CD
 
 ---
 
-### ✍️ Latest Blog Posts *(optional)*
+### 💻 Learning Projects
 
-<!-- Use GitHub Actions or RSS feed plugins -->
-- 📝 [Blog Post 1](https://yourblog.com/post1)
+I’m currently exploring development and working on:
+
+- 🌐 [**Portfolio Website**](https://github.com/yourusername/portfolio-site)  
+  Built with HTML, CSS, and JavaScript
+
+- ⚛️ [**Frontend Practice Projects**](https://github.com/yourusername/frontend-practice)  
+  Small apps using React and JavaScript
+
+---
+
+### 📚 Currently Learning
+
+- JavaScript (ES6+), React
+- Test Automation Frameworks (Cypress, Playwright)
+- CI/CD Pipelines (GitHub Actions, Jenkins)
+- DevOps Basics (Docker, Linux, AWS fundamentals)
+
+---
+
+### ✨ Goals
+
+- ✅ Strengthen my automation and scripting skills  
+- ✅ Contribute to open-source testing libraries  
+- 🔜 Build full-stack testable applications  
+- 🎯 Land a role that mixes QA + development
+
+---
+
+### 📫 Let's Connect!
+
+Feel free to reach out for collaborations, pair programming, or mentoring:
+
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 📬 [Email](mailto:your@email.com)  
+- 🌐 [Portfolio](https://yourwebsite.com) *(if available)*
+
+---
+
+#### 🐍 GitHub Contribution Snake (just for fun!)
+
+![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+> *“Quality is never an accident; it is always the result of intelligent effort.”* — John Ruskin
