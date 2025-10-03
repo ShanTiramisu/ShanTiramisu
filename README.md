@@ -1,90 +1,82 @@
-<h1 align="center">Hi 👋, I'm Shan Chen</h1>
-<h3 align="center">🔍 Software QA & Test Engineer | 💻 Aspiring Developer</h3>
+<h1 align="center">Hello ~ I'm Shan Chen 🍰</h1>
+<h3 align="center">💼 Software QA Engineer | 🔍 Developer-in-Progress</h3>
 
-
-### 👸 About Me
-
-- 🧪 I’m currently working as a **Software QA and Test Engineer**
-- 🌱 Exploring and learning **Software Development**, **Automation**, and **DevOps**
-- 🛠️ Passionate about building reliable, scalable, and testable systems
-- 🤝 Looking to collaborate on **open-source projects** and **testing tools**
-- 📫 Reach me at: **shanchenjoy@gmail.com**
+<p align="center">
+  <a href="https://www.linkedin.com/in/shanchencs/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="shanchenjoy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Personal Site-敬请期待-ff69b4?style=flat" alt="Coming Soon">
+  </a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 👩‍💻 About Me
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=selenium,python,java,js,html,css,git,github,vsCode,postman,jira" />
+- 🔍 I’m a **QA & Test Engineer** passionate about quality, performance, and user trust  
+- 💻 Currently learning **Frontend Development** (JavaScript & React)  
+- 📦 Building my own personal website — 敬请期待  
+- 🧶 When I'm not coding, I'm **bouldering**, **baking**, **knitting**, or hanging out with my **spaniel cocker** 🐶 and **tabby cat** 🐱  
+- 🍰 Yes, I love **tiramisu** (and will code for it)
+
+---
+
+### 🛠️ Tech & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,selenium,js,html,css,react,postman,java,git,github,docker,vscode" />
 </p>
+
+---
+
+### 🧪 Featured Projects
+
+- 🧰 [**Selenium UI Automation Tests**](https://github.com/ShanTiramisu/selenium-ui-tests) – Functional test automation using Selenium & Python  
+- 🔌 [**API Testing with Postman + Newman**](https://github.com/ShanTiramisu/api-testing) – Automated REST API tests  
+- 🌐 [**Frontend Practice Playground**](https://github.com/ShanTiramisu/frontend-practice) – UI component builds as I learn React  
+- 🐾 [**Pet Tracker App (WIP)**](https://github.com/ShanTiramisu/pet-tracker) – Because every cat and dog deserves a dashboard
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark-blue" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShanTiramisu&show_icons=true&theme=rose_pine" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShanTiramisu&theme=rose_pine" />
 </p>
 
 ---
 
-### 🧪 QA Projects
+### ☕ Fun Facts
 
-Here are some cool QA/testing-related projects I’ve worked on:
-
-- 🧰 [**Automated Web Testing with Selenium**](https://github.com/yourusername/selenium-web-tests)  
-  Automated UI tests using Selenium WebDriver and Python
-
-- 🛠️ [**API Testing with Postman and Newman**](https://github.com/yourusername/api-tests)  
-  Automated API tests and integration with CI/CD
+- 🧗‍♀️ I love **bouldering** – testing both software and gravity  
+- 🐶 Mom to a **English Spaniel Cocker** and 🐱 a chill **tabby cat**  
+- 🧁 I bake (and taste-test) with passion  
+- 🧶 I knit, crochet, and believe debugging is a form of meditation  
+- 🐛 I think bugs are just misunderstood features (but I still squash them)
 
 ---
 
-### 💻 Learning Projects
+### 📚 Currently Exploring
 
-I’m currently exploring development and working on:
-
-- 🌐 [**Portfolio Website**](https://github.com/yourusername/portfolio-site)  
-  Built with HTML, CSS, and JavaScript
-  
----
-
-### 📚 Currently Learning
-
-- JavaScript (ES6+), React
-- Test Automation Frameworks (Cypress, Playwright)
-- CI/CD Pipelines (GitHub Actions, Jenkins)
-- DevOps Basics (Docker, Linux, AWS fundamentals)
+- React & JavaScript (ES6+)
+- Cypress & Playwright for test automation
+- CI/CD workflows with GitHub Actions & Docker
+- Building a clean portfolio site with a cozy vibe 🌼
 
 ---
 
-### ✨ Goals
+### 💬 Connect With Me
 
-- ✅ Strengthen my automation and scripting skills  
-- ✅ Contribute to open-source testing libraries  
-- 🔜 Build full-stack testable applications  
-- 🎯 Land a role that mixes QA + development
-
----
-
-### 📫 Let's Connect!
-
-Feel free to reach out for collaborations, pair programming, or mentoring:
-
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 📬 [Email](shanchenjoy@gmail.com)  
-- 🌐 [Portfolio]*Personal Website*  
-I'm currently building my personal website — *Coming Soon!*
-Stay tuned for updates at: [https://yourwebsite.com](https://yourwebsite.com)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/shanchencs/)  
+- 📬 [Email me](mailto:youremail@example.com) *(add your real email!)*  
+- 🌐 [Personal Website](https://yourwebsite.com) — coming soon!
 
 ---
 
-#### 🐍 GitHub Contribution Snake (just for fun!)
-
-![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
-
----
-
-> *“Quality is never an accident; it is always the result of intelligent effort.”* — John Ruskin
+> _“Test fearlessly. Bake joyfully.”_ 🍰  
+> — Shan Chen
