@@ -18,7 +18,7 @@
 ### 👩‍💻 About Me
 
 - 🔍 I’m a **QA & Test Engineer**, making sure bugs fear me 😎  
-- 💻 Currently learning **Frontend Development** (JavaScript & React)  
+- 💻 Currently learning **FULL Stack Development**
 - 📦 Building my own personal website — Coming Soon  
 - 🔦 When I'm not coding, I'm **bouldering🧗‍♀️**, **baking🎂**, **knitting🧶**, or hanging out with my **spaniel cocker** 🐶 and **tabby cat** 🐱  
 - 🍰 Yes, I love **Tiramisu** (and will code for it)
@@ -35,10 +35,11 @@
 
 ### 🧪 Featured Projects
 
-- 🧰 [**Selenium UI Automation Tests**](https://github.com/ShanTiramisu/selenium-ui-tests) – Functional test automation using Selenium & Python  
-- 🔌 [**API Testing with Postman + Newman**](https://github.com/ShanTiramisu/api-testing) – Automated REST API tests  
-- 🌐 [**Frontend Practice Playground**](https://github.com/ShanTiramisu/frontend-practice) – UI component builds as I learn React  
-- 🐾 [**Pet Tracker App (WIP)**](https://github.com/ShanTiramisu/pet-tracker) – Because every cat and dog deserves a dashboard
+- 🧰 [**Selenium UI Automation Tests**](https://github.com/ShanTiramisu/AutomationProjects.git) – Functional test automation using Selenium & Python
+- 🎮 [**MiniGameHub**](https://github.com/ShanTiramisu/MiniGameHub.git) - A simple web application using React and FastAPI
+- 🔌 [**API Testing with Python and PyTest**](https://github.com/ShanTiramisu/api-testing) – Automated REST API tests with Python and PyTest（On-going）
+- 🌐 [**Personal Websit**](https://github.com/ShanTiramisu/PersonalWebsite.git) – UI component builds as I learn React (On-going)
+- 🐾 [**Pet Tracker App (WIP)**](https://github.com/ShanTiramisu/pet-tracker) – Because every cat and dog deserves a dashboard (On-going)
 
 ---
 
@@ -63,7 +64,7 @@
 
 ### 📚 Currently Exploring
 
-- React & JavaScript (ES6+)
+- React & JavaScript
 - Cypress & Playwright for test automation
 - CI/CD workflows with GitHub Actions & Docker
 - Building a clean portfolio site with a cozy vibe 🌼
@@ -73,7 +74,7 @@
 ### 💬 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shanchencs/)  
-- 📬 [Email me](mailto:youremail@example.com) *(add your real email!)*  
+- 📬 [Email me](mailto:shanchenjoy@gmail.com) 
 - 🌐 [Personal Website](https://yourwebsite.com) — coming soon!
 
 ---
