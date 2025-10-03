@@ -15,7 +15,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=selenium,python,C#,java,js,html,css,git,github,vsCode,postman,jira" />
+  <img src="https://skillicons.dev/icons?i=selenium,python,java,js,html,css,git,github,vsCode,postman,jira" />
 </p>
 
 ---
