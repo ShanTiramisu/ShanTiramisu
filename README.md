@@ -28,7 +28,7 @@
 ### 🛠️ Tech & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,selenium,js,html,css,react,postman,java,git,github,vscode,python" />
+  <img src="https://skillicons.dev/icons?i=python,selenium,js,html,css,react,postman,java,git,github,vscode" />
 </p>
 
 ---
