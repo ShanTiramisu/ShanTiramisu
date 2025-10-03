@@ -71,12 +71,4 @@
 
 ---
 
-### 💬 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/shanchencs/)  
-- 📬 [Email me](mailto:shanchenjoy@gmail.com) 
-- 🌐 [Personal Website](https://yourwebsite.com) — coming soon!
-
----
-
  > *“Quality is never an accident; it is always the result of intelligent effort.”* — John Ruskin
