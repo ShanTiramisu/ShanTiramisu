@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/Personal Site-ff69b4?style=flat" alt="Coming Soon">
+    <img src="https://img.shields.io/badge/Personal Site(Coming soon)-ff69b4?style=flat" alt="Coming Soon">
   </a>
 </p>
 
@@ -20,8 +20,8 @@
 - 🔍 I’m a **QA & Test Engineer**, making sure bugs fear me 😎  
 - 💻 Currently learning **Frontend Development** (JavaScript & React)  
 - 📦 Building my own personal website — Coming Soon  
-- 🧶 When I'm not coding, I'm **bouldering**, **baking**, **knitting**, or hanging out with my **spaniel cocker** 🐶 and **tabby cat** 🐱  
-- 🍰 Yes, I love **tiramisu** (and will code for it)
+- 🔦 When I'm not coding, I'm **bouldering🧗‍♀️**, **baking🎂**, **knitting🧶**, or hanging out with my **spaniel cocker** 🐶 and **tabby cat** 🐱  
+- 🍰 Yes, I love **Tiramisu** (and will code for it)
 
 ---
 
@@ -78,5 +78,4 @@
 
 ---
 
-> _“Test fearlessly. Bake joyfully.”_ 🍰  
-> — Shan Chen
+ > *“Quality is never an accident; it is always the result of intelligent effort.”* — John Ruskin
